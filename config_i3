@@ -1,7 +1,7 @@
-#sets modkey to alt
+# sets modkey to alt
 set $mod Mod1
 
-#sets font:style:size
+# sets font:style:size
 font noto:sans mono 16
 
 # start a terminal
